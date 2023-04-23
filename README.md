@@ -4,8 +4,7 @@
 
 <h2>About Me</h2>
 
--  Currently working on my Personal Portfolio Website.
--  Currently learning Js, NodeJs.
+-  Currently brushing my DSA skills.
 -  Ask me about C++, HTML, CSS or maybe a cup of COFFEE!
 -  Reach me:  vineet.iitdelhi@gmail.com 
   <!--🔭🌱💬📫-->
