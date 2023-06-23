@@ -14,8 +14,11 @@
     <a href="mailto:vineet.iitdelhi@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
+    <a href="https://4vinn.netlify.app">
+        <img src="https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=v&logoColor=white" alt="Portfolio">
+    </a>
     <a href="https://instagram.com/vineet.jakhar">
-        <img src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=Instagram" alt="Instagram">
+        <img src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
     </a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Vineet-Jakhar&color=blue"> </p>
