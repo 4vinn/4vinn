@@ -11,7 +11,7 @@
     <a href="https://www.linkedin.com/in/vineetjakhar/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="mailto:vineet.jakhar54321@gmail.com">
+    <a href="mailto:vineet.iitdelhi@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
     <a href="https://instagram.com/vineet.jakhar">
