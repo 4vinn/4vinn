@@ -22,18 +22,23 @@
     </a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Vineet-Jakhar&color=blue"> </p>
+<p align="center"><i>Tech Stack Used:</i></p>
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
-![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
 ![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)
 
 ### Technologies & Frameworks
-![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
+![MongdoDB](https://img.shields.io/badge/Mongodb-black?style=for-the-badge&logo=mongodb)
+![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
+![ReactJS](https://img.shields.io/badge/reactjs-black?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodedotjs)
 
 
 
