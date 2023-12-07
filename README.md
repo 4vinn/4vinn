@@ -30,6 +30,7 @@
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
+![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql)
 ![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)
 
 ### Technologies & Frameworks
