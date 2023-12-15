@@ -22,49 +22,52 @@
     </a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Vineet-Jakhar&color=blue"> </p>
-<p align="center"><i>Tech Stack Used:</i></p>
 
-### Languages
+
+### Tech Stack
+
+##### Languages
+
+![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
-![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
-![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
 ![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql)
 ![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)
 
-### Technologies & Frameworks
+##### Technologies & Frameworks
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
-![MongdoDB](https://img.shields.io/badge/Mongodb-black?style=for-the-badge&logo=mongodb)
+![NodeJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
 ![ReactJS](https://img.shields.io/badge/reactjs-black?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodedotjs)
+![MongdoDB](https://img.shields.io/badge/Mongodb-black?style=for-the-badge&logo=mongodb)
 
 
 
  <details>
 <p align="center">
-  <a href="https://github.com/Vineet-Jakhar">
+  <a href="https://github.com/4vinn">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vineet-Jakhar&theme=transparent" />
   </a>
-  <a href="https://github.com/Vineet-Jakhar">
+  <a href="https://github.com/4vinn">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vineet-Jakhar&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/Vineet-Jakhar">
+  <a href="https://github.com/4vinn">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vineet-Jakhar&theme=transparent" />
   </a>
-  <a href="https://github.com/Vineet-Jakhar">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet-Jakhar&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  <a href="https://github.com/4vinn">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4vinn&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
 
-
- <!--<h2>Stats</h2>
+ <!--
+<h2>Stats</h2>
     
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vineet-jakhar&show_icons=true&locale=en&layout=compact&theme=dracula" alt="vineet-jakhar" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vineet-jakhar&show_icons=true&locale=en&theme=dracula" alt="vineet-jakhar" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=4vinn&show_icons=true&locale=en&layout=compact&theme=dracula" alt="vineet-jakhar" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=4vinn&show_icons=true&locale=en&theme=dracula" alt="vineet-jakhar" /></p>
 
 -->
 
