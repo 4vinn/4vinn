@@ -73,7 +73,7 @@
 
 <p align="center"> 
     <img src="https://art.pixilart.com/b500a725eb85aae.gif" height=140px width=180px>
-    <img src="https://raw.githubusercontent.com/4vinn/test/main/giphy-cat.gif?token=GHSAT0AAAAAACKZ4ONXV3ZWAA2QDAE6PQWGZL4WESA" height=140px width=180px>
+    <img src="https://raw.githubusercontent.com/4vinn/test/main/giphy-cat.gif?token=GHSAT0AAAAAACKZ4ONXRFJGNTQPMZ4IYSZEZMAZGMQ" height=140px width=180px>
 </p>
 
 ![Snake Game](https://github.com/Vineet-Jakhar/Vineet-Jakhar/blob/output/github-contribution-grid-snake.svg)
