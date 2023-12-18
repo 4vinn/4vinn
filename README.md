@@ -49,13 +49,13 @@
  <details>
 <p align="center">
   <a href="https://github.com/4vinn">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vineet-Jakhar&theme=transparent" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4vinn&theme=transparent" />
   </a>
   <a href="https://github.com/4vinn">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vineet-Jakhar&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=4vinn&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/4vinn">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vineet-Jakhar&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=4vinn&theme=transparent" />
   </a>
   <a href="https://github.com/4vinn">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4vinn&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&card_width=699&hide_border=true&theme=transparent" />
