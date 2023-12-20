@@ -31,17 +31,18 @@
  <!-- 
 ##### Technologies & Frameworks
 -->
-<!--
+
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
+![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
 ![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql)
-![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)
 <br>
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
+![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)
 ![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)
 ![ReactJS](https://img.shields.io/badge/react.js-black?style=for-the-badge&logo=react)
@@ -49,15 +50,14 @@
 <br>
 ![Notion](https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion)
 ![Socket.io](https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io)
+![Yarn](https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn)
+![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)
 ![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase)
 ![MS Azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoftazure)
 ![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazonaws)
 
--->
-<br><br>
-
-
+<!--
 ![C](https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-5194F0?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
@@ -79,8 +79,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 ![MS Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
-
-
+-->
  <details>
 <p align="center">
   <a href="https://github.com/4vinn">
