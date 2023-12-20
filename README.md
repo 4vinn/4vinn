@@ -25,9 +25,13 @@
 
 
 ### Tech Stack
-
+<!-- 
 ##### Languages
-
+ -->
+ <!-- 
+##### Technologies & Frameworks
+-->
+<!--
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
@@ -35,15 +39,46 @@
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
 ![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql)
 ![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)
-
-##### Technologies & Frameworks
+<br>
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
-![NodeJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
-![ReactJS](https://img.shields.io/badge/reactjs-black?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)
+![ReactJS](https://img.shields.io/badge/react.js-black?style=for-the-badge&logo=react)
 ![MongdoDB](https://img.shields.io/badge/Mongodb-black?style=for-the-badge&logo=mongodb)
+<br>
+![Notion](https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion)
+![Socket.io](https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io)
+![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase)
+![MS Azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazonaws)
 
+-->
+<br><br>
+
+
+![C](https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-5194F0?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Postgres](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![ReactJS](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+<br>
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![MS Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
 
 
  <details>
