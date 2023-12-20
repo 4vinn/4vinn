@@ -5,32 +5,34 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Vineet.<br>
-        Frontend Web Developer | Video Editor <br>
-        Open to collaborating on interesting and innovative projects.<br>
+        Web Developer | Video Editor <br>
+        Open to collaborate on interesting and innovative projects.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/vineetjakhar/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+</p>
+ 
+<p align="center">
+    <a href="https://www.linkedin.com/in/vineetjakhar/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="mailto:vineet.iitdelhi@gmail.com">
-        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+    <a href="https://4vinn.netlify.app" target="_blank">
+        <img src="https://img.shields.io/badge/-Portfolio-FE7A16?logo=myspace&logoColor=white" alt="Portfolio">
     </a>
-    <a href="https://4vinn.netlify.app">
-        <img src="https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=v&logoColor=white" alt="Portfolio">
+    <a href="mailto:vineet.iitdelhi@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-%231DA1F2.svg?logo=gmail&logoColor=white" alt="Email">
     </a>
-    <a href="https://instagram.com/vineet.jakhar">
-        <img src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
+    <a href="https://instagram.com/vineet.jakhar" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
     </a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Vineet-Jakhar&color=blue"> </p>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Vineet-Jakhar&color=blue"></p>
+
+ <!--   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineetjakhar/) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=myspace&logoColor=white)](https://4vinn.netlify.app) [![Email](https://img.shields.io/badge/Email-%231DA1F2.svg?logo=gmail&logoColor=white)](mailto:vineet.iitdelhi@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vineet.jakhar) 
+</p>
+-->  
 
 ### Tech Stack
-<!-- 
-##### Languages
- -->
- <!-- 
-##### Technologies & Frameworks
--->
 
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
