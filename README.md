@@ -39,6 +39,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
 ![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)
+![Markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown)
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
 ![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql)
 <br>
