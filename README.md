@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi, guys! 👋</h1>
+<h1 align="center">Hi, guys! 👋
+</h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
@@ -31,6 +32,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineetjakhar/) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=myspace&logoColor=white)](https://4vinn.netlify.app) [![Email](https://img.shields.io/badge/Email-%231DA1F2.svg?logo=gmail&logoColor=white)](mailto:vineet.iitdelhi@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vineet.jakhar) 
 </p>
 -->  
+---
 
 ### Tech Stack
 
@@ -59,6 +61,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)
 ![MS Azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoftazure)
 ![Railway](https://img.shields.io/badge/railway-black?style=for-the-badge&logo=railway)
+![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman)
 <!--
 ![Supabase](https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase)
 ![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazonaws)
@@ -88,7 +91,8 @@
 ![MS Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
 -->
- <details>
+---
+
 <p align="center">
   <a href="https://github.com/4vinn">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4vinn&theme=transparent" />
@@ -103,7 +107,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4vinn&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
-</details>
+
 
  <!--
 <h2>Stats</h2>
@@ -112,11 +116,12 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=4vinn&show_icons=true&locale=en&theme=dracula" alt="vineet-jakhar" /></p>
 
 -->
-
+---
 <p align="center"> 
     <img src="https://art.pixilart.com/b500a725eb85aae.gif" height=140px width=180px>
-    <img src="https://raw.githubusercontent.com/4vinn/test/main/giphy-cat.gif?token=GHSAT0AAAAAACKZ4ONXRFJGNTQPMZ4IYSZEZMAZGMQ" height=140px width=180px>
 </p>
+
+---
 
 ![Snake Game](https://github.com/Vineet-Jakhar/Vineet-Jakhar/blob/output/github-contribution-grid-snake.svg)
 
