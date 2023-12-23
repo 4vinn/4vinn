@@ -119,8 +119,8 @@
 -->
 ---
 <p align="center"> 
-    <img src="https://art.pixilart.com/b500a725eb85aae.gif" height=140px >
-    <img src="https://github.com/Vineet-Jakhar/Vineet-Jakhar/blob/output/github-contribution-grid-snake.svg" height=160px >
+    <img src="https://art.pixilart.com/b500a725eb85aae.gif" height=120px >
+    <img src="https://github.com/Vineet-Jakhar/Vineet-Jakhar/blob/output/github-contribution-grid-snake.svg" height=140px >
 </p>
 
 ---
