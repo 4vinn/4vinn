@@ -1,4 +1,4 @@
-<img align="cener" src="https://github.com/4vinn/4vinn/assets/100095098/faa93871-8559-419e-9850-f8c9449f6d82" height=400px>
+<img align="cener" src="https://github.com/4vinn/4vinn/assets/100095098/faa93871-8559-419e-9850-f8c9449f6d82" height=380px>
 
 <h1 align="center">Hi, guys! 👋
 </h1>
@@ -119,7 +119,7 @@
 -->
 ---
 <p align="center"> 
-    <img src="https://art.pixilart.com/b500a725eb85aae.gif" height=140px width=180px>
+    <img src="https://art.pixilart.com/b500a725eb85aae.gif" height=140px >
     <img src="https://github.com/Vineet-Jakhar/Vineet-Jakhar/blob/output/github-contribution-grid-snake.svg" height=160px >
 </p>
 
