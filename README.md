@@ -1,3 +1,4 @@
+<img align="cener" src="https://github.com/4vinn/4vinn/assets/100095098/faa93871-8559-419e-9850-f8c9449f6d82" height=400px>
 
 <h1 align="center">Hi, guys! 👋
 </h1>
