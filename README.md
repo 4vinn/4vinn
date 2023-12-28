@@ -49,6 +49,7 @@
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 ![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)
+![jQuery](https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jquery)
 ![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)
 ![ReactJS](https://img.shields.io/badge/react.js-black?style=for-the-badge&logo=react)
