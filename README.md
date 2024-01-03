@@ -55,7 +55,6 @@
 ![ReactJS](https://img.shields.io/badge/react.js-black?style=for-the-badge&logo=react)
 ![MongdoDB](https://img.shields.io/badge/Mongodb-black?style=for-the-badge&logo=mongodb)
 <br>
-![Notion](https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion)
 ![Socket.io](https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io)
 ![Yarn](https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn)
 ![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)
