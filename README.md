@@ -58,9 +58,10 @@
 ![Socket.io](https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io)
 ![Yarn](https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn)
 ![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)
+![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
 ![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)
-![MS Azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazonaws)
 ![Railway](https://img.shields.io/badge/railway-black?style=for-the-badge&logo=railway)
 ![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman)
 <!--
