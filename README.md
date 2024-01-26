@@ -118,13 +118,13 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=4vinn&show_icons=true&locale=en&theme=dracula" alt="vineet-jakhar" /></p>
 
 -->
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <p align="center"> 
     <img src="https://art.pixilart.com/b500a725eb85aae.gif" height=120px >
     <img src="https://github.com/Vineet-Jakhar/Vineet-Jakhar/blob/output/github-contribution-grid-snake.svg" height=140px >
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 
 <!-- https://user-images.githubusercontent.com/100095098/178269925-a9e14573-6589-4b64-b90d-d82bfc7cc33a.mp4 -->
