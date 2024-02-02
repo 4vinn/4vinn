@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
+    <!--   <b>Welcome to my page!</b><br><br> -->
     <i>
         I'm Vineet.<br>
         Web Developer | Video Editor <br>
@@ -39,6 +39,31 @@
 
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
+![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)
+![jQuery](https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jquery)
+<br>
+![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)
+![ReactJS](https://img.shields.io/badge/react.js-black?style=for-the-badge&logo=react)
+![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
+![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql)
+![MongdoDB](https://img.shields.io/badge/Mongodb-black?style=for-the-badge&logo=mongodb)
+<br>
+![Markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown)
+![Yarn](https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn)
+![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)
+![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman)
+![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
+![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)
+![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazonaws)
+![Railway](https://img.shields.io/badge/railway-black?style=for-the-badge&logo=railway)
+
+<!--
+![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
 ![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)
@@ -64,6 +89,7 @@
 ![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazonaws)
 ![Railway](https://img.shields.io/badge/railway-black?style=for-the-badge&logo=railway)
 ![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman)
+-->
 <!--
 ![Supabase](https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase)
 ![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazonaws)
