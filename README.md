@@ -1,7 +1,8 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=1000&pause=100&color=71EBF7&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B;Hola+%F0%9F%A4%9F;+%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%F0%9F%A4%9E;Ni+h%C7%8Eo+%E2%9C%8C;Konnichiwa+%F0%9F%91%8C;Salut+%F0%9F%A4%99" alt="Typing SVG" />
+
 <img align="cener" src="https://github.com/4vinn/4vinn/assets/100095098/faa93871-8559-419e-9850-f8c9449f6d82" height=380px>
 
-<h1 align="center">Hi 👋
-</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <p align="center">
     <!--   <b>Welcome to my page!</b><br><br> -->
@@ -33,7 +34,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineetjakhar/) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=myspace&logoColor=white)](https://4vinn.netlify.app) [![Email](https://img.shields.io/badge/Email-%231DA1F2.svg?logo=gmail&logoColor=white)](mailto:vineet.iitdelhi@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vineet.jakhar) 
 </p>
 -->  
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### Tech Stack
 
@@ -119,7 +120,7 @@
 ![MS Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
 -->
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 <p align="center">
   <a href="https://github.com/4vinn">
