@@ -7,9 +7,9 @@
 <p align="center">
     <!--   <b>Welcome to my page!</b><br><br> -->
     <i>
-        I'm Vineet.<br>
-        Web Developer | Video Editor <br>
-        Open to collaborate on interesting and innovative projects.<br>
+        I'm Vineet Jakhar.<br><br>
+        Full Stack Developer | Making delightful, scalable products <br>
+        <!-- Full Stack Developer | Built 6+ MVPs for startups <br> -->
     </i><br>
 </p>
  
@@ -17,15 +17,15 @@
     <a href="https://www.linkedin.com/in/vineetjakhar/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://4vinn.netlify.app" target="_blank">
+    <a href="https://4vinn.xyz" target="_blank">
         <img src="https://img.shields.io/badge/-Portfolio-FE7A16?logo=myspace&logoColor=white" alt="Portfolio">
     </a>
     <a href="mailto:vineet.iitdelhi@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-%231DA1F2.svg?logo=gmail&logoColor=white" alt="Email">
     </a>
-    <a href="https://instagram.com/vineet.jakhar" target="_blank">
+    <!-- <a href="https://instagram.com/vineet.jakhar" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-    </a>
+    </a> -->
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Vineet-Jakhar&color=blue"></p>
@@ -38,29 +38,35 @@
 
 ### Tech Stack
 
-![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
-![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite)
+![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
 ![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)
-![jQuery](https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jquery)
-<br>
-![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)
-![ReactJS](https://img.shields.io/badge/react.js-black?style=for-the-badge&logo=react)
-![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
-![Postgres](https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql)
-![MongdoDB](https://img.shields.io/badge/Mongodb-black?style=for-the-badge&logo=mongodb)
-<br>
-![Markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown)
-![Yarn](https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn)
-![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)
-![Postman](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman)
-![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
+![Zod](https://img.shields.io/badge/zod-black?style=for-the-badge&logo=zod)
+![Zustand](https://img.shields.io/badge/zustand-black?style=for-the-badge&logo=zustand)
+![TanStack Query](https://img.shields.io/badge/tanstack_query-black?style=for-the-badge&logo=reactquery)
+![Framer Motion](https://img.shields.io/badge/framer_motion-black?style=for-the-badge&logo=framer)
+![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)
+![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)
+![BetterAuth](https://img.shields.io/badge/betterauth-black?style=for-the-badge&logo=betterauth)
+![Prisma ORM](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)
+![NeonDB](https://img.shields.io/badge/neondb-black?style=for-the-badge&logo=neon)
+![Supabase](https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase)
 ![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)
 ![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazonaws)
-![Railway](https://img.shields.io/badge/railway-black?style=for-the-badge&logo=railway)
+![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
+![Nginx](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx)
+![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)
+![PostHog](https://img.shields.io/badge/posthog-black?style=for-the-badge&logo=posthog)
+![Google Analytics](https://img.shields.io/badge/google_analytics-black?style=for-the-badge&logo=googleanalytics)
+![Hygraph](https://img.shields.io/badge/hygraph_cms-black?style=for-the-badge&logo=hygraph)
+![GitHub Actions](https://img.shields.io/badge/github_actions-black?style=for-the-badge&logo=githubactions)
+<br>
+<br>
 
 <!--
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
