@@ -17,9 +17,9 @@
     <a href="https://www.linkedin.com/in/vineetjakhar/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://4vinn.xyz" target="_blank">
+    <!-- <a href="https://asdads" target="_blank">
         <img src="https://img.shields.io/badge/-Portfolio-FE7A16?logo=myspace&logoColor=white" alt="Portfolio">
-    </a>
+    </a> -->
     <a href="mailto:vineet.iitdelhi@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-%231DA1F2.svg?logo=gmail&logoColor=white" alt="Email">
     </a>
