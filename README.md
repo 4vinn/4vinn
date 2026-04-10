@@ -1,39 +1,47 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=1000&pause=100&color=71EBF7&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B;Hola+%F0%9F%A4%9F;+%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%F0%9F%A4%9E;Ni+h%C7%8Eo+%E2%9C%8C;Konnichiwa+%F0%9F%91%8C;Salut+%F0%9F%A4%99" alt="Typing SVG" />
+<p>
+  <img 
+    align="left" 
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=1000&pause=100&color=71EBF7&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B;Hola+%F0%9F%A4%9F;+%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%F0%9F%A4%9E;Ni+h%C7%8Eo+%E2%9C%8C;Konnichiwa+%F0%9F%91%8C;Salut+%F0%9F%A4%99" 
+  />
+  
+  <img 
+    align="right" 
+    src="https://komarev.com/ghpvc/?username=Vineet-Jakhar&color=blue" 
+  />
+</p>
 
-<img align="cener" src="https://github.com/4vinn/4vinn/assets/100095098/faa93871-8559-419e-9850-f8c9449f6d82" height=380px>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+<img align="cener" src="https://github.com/4vinn/4vinn/assets/100095098/faa93871-8559-419e-9850-f8c9449f6d82" height=380px width="100%">
 
-<p align="center">
-    <!--   <b>Welcome to my page!</b><br><br> -->
+
+
+<!-- <p align="center">
+      <b>Welcome to my page!</b><br><br>
     <i>
         I'm Vineet Jakhar.<br><br>
         Full Stack Developer | Making delightful, scalable products <br>
-        <!-- Full Stack Developer | Built 6+ MVPs for startups <br> -->
+        Full Stack Developer | Built 6+ MVPs for startups <br>
     </i><br>
-</p>
+</p> -->
  
-<p align="center">
+<!-- <p align="center">
     <a href="https://www.linkedin.com/in/vineetjakhar/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <!-- <a href="https://asdads" target="_blank">
+    <a href="https://asdads" target="_blank">
         <img src="https://img.shields.io/badge/-Portfolio-FE7A16?logo=myspace&logoColor=white" alt="Portfolio">
-    </a> -->
+    </a>
     <a href="mailto:vineet.iitdelhi@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-%231DA1F2.svg?logo=gmail&logoColor=white" alt="Email">
     </a>
-    <!-- <a href="https://instagram.com/vineet.jakhar" target="_blank">
+    <a href="https://instagram.com/vineet.jakhar" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-    </a> -->
-</p>
+    </a>
+</p> -->
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Vineet-Jakhar&color=blue"></p>
 
- <!--   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineetjakhar/) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=myspace&logoColor=white)](https://4vinn.netlify.app) [![Email](https://img.shields.io/badge/Email-%231DA1F2.svg?logo=gmail&logoColor=white)](mailto:vineet.iitdelhi@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vineet.jakhar) 
-</p>
--->  
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineetjakhar/) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=myspace&logoColor=white)](https://4vinn.netlify.app) [![Email](https://img.shields.io/badge/Email-%231DA1F2.svg?logo=gmail&logoColor=white)](mailto:vineet.iitdelhi@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vineet.jakhar) -->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### Tech Stack
